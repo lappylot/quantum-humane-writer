@@ -1,0 +1,31 @@
+{
+  "base_topic": "technology and quantum simulators",
+  "count": 1,
+  "seed_ideas": [
+    "Quantum Road Scanner uses quantum enhanced ai simulations with GPT4 and GPT5 to determine real world road risk.",
+    "Simulations can in fact provide obtainable information about our universe.",
+    "Carl Sagan once said some where something great is waiting to be known. We could add to that by saying somewhere something great is waiting to be simulated. We believe car accidents in the future could be simulated."
+  ],
+  "generated_topics": [
+    "Quantum Road Scanner uses quantum enhanced ai simulations with GPT4 and GPT5 to determine real world road risk."
+  ],
+  "outputs": [
+    {
+      "topic": "Quantum Road Scanner uses quantum enhanced ai simulations with GPT4 and GPT5 to determine real world road risk.",
+      "path": "blog_output.md"
+    }
+  ],
+  "settings": {
+    "audience": "General Public",
+    "tone": "warm and free",
+    "perspective": "second person",
+    "grade": "8-10",
+    "words": 1200,
+    "sections": 6,
+    "forum_personas": 0,
+    "forum_rounds": 0,
+    "forum_on": "",
+    "ghostwriter_passes": 0,
+    "creativity": 0.9
+  }
+}
